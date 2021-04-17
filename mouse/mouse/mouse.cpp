@@ -57,7 +57,5 @@ int main()
         Sleep(1);
     }
 
-    
-
     return 0;
 }
